@@ -1,7 +1,6 @@
 ## Welcome to Nahyun's GitHub
 
-https://capsule-render.vercel.app/api?
-<img src="https://capsule-render.vercel.app/api?type=wave&colorgradient&customColorList=3&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&colorgradient&customColorList=3,17&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <!--
 **kim3340/kim3340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
