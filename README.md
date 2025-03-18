@@ -1,15 +1,13 @@
 ## Welcome to Nahyun's GitHub
 
-| ![image1](image1.jpg) | ![image2](image2.jpg) | ![image1](image3.jpg) | ![image1](image4.jpg) |
-
-<!-- <table>
+<table>
   <tr>
     <td><img src="image1.jpg" width="250" height="200"></td>
     <td><img src="image2.jpg" width="250" height="200"></td>
     <td><img src="image3.jpg" width="250" height="200"></td>
     <td><img src="image4.jpg" width="250" height="200"></td>
   </tr>
-</table> -->
+</table>
 
 <!--
 **kim3340/kim3340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
