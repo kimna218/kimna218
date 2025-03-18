@@ -1,11 +1,13 @@
 ## Welcome to Nahyun's GitHub
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 0;">
-  <img src="image1.jpg" width="250" height="200" style="margin: 0; padding: 0; border: 0;">
-  <img src="image2.jpg" width="250" height="200" style="margin: 0; padding: 0; border: 0;">
-  <img src="image3.jpg" width="250" height="200" style="margin: 0; padding: 0; border: 0;">
-  <img src="image4.jpg" width="250" height="200" style="margin: 0; padding: 0; border: 0;">
-</div>
+<table>
+  <tr>
+    <td><img src="image1.jpg" width="260" height="200" style="margin: 0; padding: 0;"></td>
+    <td><img src="image2.jpg" width="260" height="200" style="margin: 0; padding: 0;"></td>
+    <td><img src="image3.jpg" width="260" height="200" style="margin: 0; padding: 0;"></td>
+    <td><img src="image4.jpg" width="260" height="200" style="margin: 0; padding: 0;"></td>
+  </tr>
+</table>
 
 <!--
 **kim3340/kim3340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
