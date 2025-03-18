@@ -1,10 +1,10 @@
 ## Welcome to Nahyun's GitHub
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="image1.jpg" width="250" height="200">
-  <img src="image2.jpg" width="250" height="200">
-  <img src="image3.jpg" width="250" height="200">
-  <img src="image4.jpg" width="250" height="200">
+  <img src="image1.jpg" width="200" height="200">
+  <img src="image2.jpg" width="200" height="200">
+  <img src="image3.jpg" width="200" height="200">
+  <img src="image4.jpg" width="200" height="200">
 </div>
 
 <!--
