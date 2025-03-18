@@ -1,6 +1,7 @@
 ## Welcome to Nahyun's GitHub
 
-![My Image](image.jpg)
+<img src="image.jpg" width="1000" height="500">
+
 
 <!--
 **kim3340/kim3340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
