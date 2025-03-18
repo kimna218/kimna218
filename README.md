@@ -34,11 +34,12 @@
    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
    <img src="https://img.shields.io/badge/Docker-20232a.svg?style=for-the-badge&logo=Docker&logoColor=ffdd54" />
    <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+    <img src="https://img.shields.io/badge/Unity-2C2C32.svg?style=for-the-badge&logo=Unity&logoColor=FFFFFF" />&nbsp
  </div>
 
 <h3 align="center">📫 Contact 📫</h3>
  <div align="center">
    <a href="mailto:oka1313@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=ffd35b" />&nbsp
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=b9ca7c" />&nbsp
    </a>
  </div>
