@@ -10,9 +10,9 @@
 </table>
 
 <br>
-🤍 My name is Nahyun Kim
+🤍 Name: Nahyun Kim
 <br>
-💚 My major is Computer Science
+💚 Major: Computer Science
 
 <br>
 
