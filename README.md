@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td><img src="image1.jpg" width="250" height="200"></td>
-    <td><img src="image2.jpg" width="250" height="200"></td>
-    <td><img src="image3.jpg" width="250" height="200"></td>
-    <td><img src="image4.jpg" width="250" height="200"></td>
+    <td><img src="image1.jpg" width="260" height="200"></td>
+    <td><img src="image2.jpg" width="260" height="200"></td>
+    <td><img src="image3.jpg" width="260" height="200"></td>
+    <td><img src="image4.jpg" width="260" height="200"></td>
   </tr>
 </table>
 
