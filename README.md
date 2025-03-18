@@ -1,6 +1,6 @@
 ## Welcome to Nahyun's GitHub
 
-<img src="image.jpg" width="1000">
+<img src="image.jpg" width="1000" height="500">
 
 
 <!--
