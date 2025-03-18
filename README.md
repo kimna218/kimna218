@@ -16,7 +16,7 @@
 
 <br>
 
-<h2 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ Tech Stack ✨</h3>
  <div align="center">
  <img src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Java-%23000000?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
@@ -30,7 +30,7 @@
 
  </div>
 <br>
-<h2 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">🛠 Tools 🛠</h3>
  <div align="center">
    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Unity-2C2C32.svg?style=for-the-badge&logo=Unity&logoColor=FFFFFF" />&nbsp
  </div>
 <br>
-<h2 align="center">📫 Contact 📫</h3>
+<h3 align="center">📫 Contact 📫</h3>
  <div align="center">
    <a href="mailto:oka1313@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-B4CA65?style=for-the-badge&logo=gmail&logoColor=White" />&nbsp
